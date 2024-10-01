@@ -15,7 +15,5 @@ _Текст_
 ~~текст~~
 
 #### Заголовок 4#
-![Изображение][1]
 
-
-[1]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown"
+![УУНИТ](https://uust.ru/media/uploads/ckeditor/archive/2022/06/21/p2040363.jpg)
