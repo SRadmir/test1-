@@ -13,3 +13,9 @@ _Текст_
 ###### Заголовок 3 
 
 ~~текст~~
+
+#### Заголовок 4#
+![Изображение][1]
+
+
+[1]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown"
